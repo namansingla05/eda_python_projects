@@ -7,6 +7,7 @@ This repository contains a collection of exploratory data analysis (EDA) project
 | Dataset         | Description                          |
 |-----------------|--------------------------------------|
 | Adult Income    | Exploratory analysis of demographic data to understand trends and patterns related to income. |
+| Titanic         | Analysis of passenger data to explore factors influencing survival on the Titanic.             |
 
 ## Technologies Used
 
