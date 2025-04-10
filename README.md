@@ -6,6 +6,7 @@ This repository contains a collection of exploratory data analysis (EDA) project
 
 | Dataset         | Description                          |
 |-----------------|--------------------------------------|
+| eCommerce Purchases | Exploratory analysis of online shopping behavior to uncover trends in purchase history, device usage, and customer demographics. |
 | Adult Income    | Exploratory analysis of demographic data to understand trends and patterns related to income. |
 | Titanic         | Analysis of passenger data to explore factors influencing survival on the Titanic.             |
 | Google Play Store  | Analysis of app data from the Google Play Store to uncover trends in ratings, categories, and installs. |
